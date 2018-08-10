@@ -1,5 +1,1 @@
 This is a test file for the Krogh group meeting.
-Here is a new line.
-I am makeing a new line.
-Here is more text.
-Fifth line of text.
