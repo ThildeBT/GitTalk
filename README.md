@@ -1,3 +1,3 @@
 # GitTalk
 
-This is a test directory for the purpose of learning github
+This is a test repository for the purpose of learning github.
